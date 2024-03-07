@@ -1,2 +1,2 @@
 # js_projeler
-js dersleri öğrenirken tuttuğum otlar ve ödevler
+js dersleri öğrenirken tuttuğum notlar ve ödevler
