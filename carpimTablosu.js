@@ -1,4 +1,4 @@
-Çarpım tablosunu oluşturan bir uygulama yazınız.
+//Çarpım tablosunu oluşturan bir uygulama yazınız.
 ------------------------------------------------
 let yazdirilacakMetin = "";
 for(let i=1; i<=10; i++){
