@@ -1,4 +1,4 @@
-Bir değişken oluşturun ve değişkene saniye değerini tutun.
+/*Bir değişken oluşturun ve değişkene saniye değerini tutun.
 SOnra bu saniye değerinin kaç dakika ve saniyeye denk geldiğini yazdırın
 Örnek 1200 değeri için 20 dakika 0 saniye yazılmalıdır */
 -------------------------------------------------------------------------
