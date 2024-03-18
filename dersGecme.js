@@ -1,4 +1,5 @@
-Klavyeden girilen vize ve final notlarına göre öğrencinin dersi geçip geçmediğini söyleyen bir uygulama yazın. (Geçme notu: 50 , vizenin %40 ı, finalin %60 ı geçerlidir.)
+//Klavyeden girilen vize ve final notlarına göre öğrencinin dersi geçip geçmediğini söyleyen bir uygulama yazın. 
+//(Geçme notu: 50 , vizenin %40 ı, finalin %60 ı geçerlidir.)
 
 let vizeNotu = parseInt(prompt("Vize notunu giriniz:", "1"));
 let finalNotu = parseInt(prompt("Final notunu giriniz:", "1"));
