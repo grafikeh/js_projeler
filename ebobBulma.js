@@ -1,5 +1,5 @@
 //Kullanıcıdan aldığınız iki tamsayı değerin en büyük ortak bölenini uygulamayı yazınız. Örneğin 14 ve 35 sayıları için ebob = 7 olmalıdır.
-//----------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 let sayi1 = parseInt(prompt("Birinci sayıyı giriniz"));
 let sayi2 = parseInt(prompt("İkinci sayıyı giriniz"));
 
