@@ -1,5 +1,5 @@
-Klavyeden kenarları girilen bir üçgenin çeşidini veren uygulamayı yazınız.
--------------------------------------------------------------------------
+/*Klavyeden kenarları girilen bir üçgenin çeşidini veren uygulamayı yazınız.
+-------------------------------------------------------------------------*/
 let birinciKenar = parseInt(prompt("Birinci kenarı giriniz", "1"));
 let ikinciKenar = parseInt(prompt("İkinci kenarı giriniz", "1"));
 let ucuncuKenar = parseInt(prompt("Üçüncü kenarı giriniz", "1"));
