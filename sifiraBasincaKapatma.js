@@ -1,5 +1,5 @@
-Kullanıcıdan sürekli olarak sayı alan ve de kullanıcı 0'a bastığında girdiği sayıların çarpımını sonuç olarak gösteren programı yazınız.
--------------------------------------------------------------
+/*Kullanıcıdan sürekli olarak sayı alan ve de kullanıcı 0'a bastığında girdiği sayıların çarpımını sonuç olarak gösteren programı yazınız.
+-------------------------------------------------------------*/
 let girilenSayi = parseInt(prompt("Bir sayı giriniz"));
 let carpimSonucu = 1;
 
