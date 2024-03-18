@@ -1,4 +1,4 @@
-Bir yıl değerinin artık yıl olup olmadığını hesaplayın
+/*Bir yıl değerinin artık yıl olup olmadığını hesaplayın
 Bir yılın artık olması için ya 400 ile modu 0 olmalı
 ya da 4 ile modu 0 olmalı ve 100 ile modu 0 olmalı
 4100 değeri false değeri vermeli */
