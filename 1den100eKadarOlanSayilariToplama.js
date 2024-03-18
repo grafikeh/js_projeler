@@ -1,4 +1,4 @@
-1 den 100 e kadar olan sayıların toplamını bulan uygulamayı yazınız.
+//1 den 100 e kadar olan sayıların toplamını bulan uygulamayı yazınız.
 --------------------------------------------------------------------
 let toplam = 0;
 for(i=1; i<100; i++){
