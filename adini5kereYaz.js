@@ -1,4 +1,4 @@
-Kendi adınızı ekrana 5 kere yazdıran uygulamayı tüm döngülerle yazın.
+//Kendi adınızı ekrana 5 kere yazdıran uygulamayı tüm döngülerle yazın.
 ---------------------------------------------------------------------
 //for
 for(i=0; i<5; i++){
