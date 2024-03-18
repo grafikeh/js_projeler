@@ -1,5 +1,5 @@
-100 lük sistemde verilen notları harfli sistemde gösteren bir uygulama yazınız.
--------------------------------------------------------------------------------
+/* 100 lük sistemde verilen notları harfli sistemde gösteren bir uygulama yazınız.
+-------------------------------------------------------------------------------*/
 let yuzlukSistemdekiNot = parseInt(prompt("Notunuzu giriniz.","50"));
 let notSiniri = parseInt(yuzlukSistemdekiNot/10);
 
