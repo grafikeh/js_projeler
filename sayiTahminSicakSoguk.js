@@ -1,4 +1,4 @@
-Sıcak soğuk oyunu yapalım. Sistem 100 e kadar bir sayı üetsin. Kullanıcı bu sayıyı tahmin etmeye çalışsın. Kullanıcının girdiği değere göre kullanıcıyı "artır" ya da "azalt" diyerek uyaralım. 
+/*Sıcak soğuk oyunu yapalım. Sistem 100 e kadar bir sayı üetsin. Kullanıcı bu sayıyı tahmin etmeye çalışsın. Kullanıcının girdiği değere göre kullanıcıyı "artır" ya da "azalt" diyerek uyaralım. 
 Kullanıcı sayıyı bulana kadar devam edelim ve sayıyı bulduğunda kaç denemeden sonra bulduğunu belrtelim.
 ------------------------------------------------------------------------------------------------------------
 let uretilenSayi = parseInt(Math.random()*101);
